@@ -1,0 +1,28 @@
+.review
+{
+    float:right;
+    text-decoration:none;
+    color: red;
+    background: black;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.offer
+{
+    height:50px;
+    width: 50px;
+    background:yellow;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 50px;
+    position:absolute;
+    z-index: 999;
+    top:50px;
+    right: 50px;
+    font-size: 10px;
+}
+.relative
+{
+    position:relative;
+}
